@@ -1,0 +1,7 @@
+name: AntiTotem
+main: roi611\AntiTotem\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: roi611
+description: トーテムを無効化します
